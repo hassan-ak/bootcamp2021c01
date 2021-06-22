@@ -36,3 +36,8 @@ Support Reading Material:
 - [Architectural Style for APIs – how to make the choice](https://api-university.com/blog/architectural-style-for-apis/)
 - [Comparisons of API Architectural Styles](https://www.moesif.com/blog/api-guide/comparisons-of-api-architectural-styles/)
 
+Class 1 Videos: The API Economy
+- [English on YouTube](https://www.youtube.com/watch?v=1ztdYFRyCyE&ab_channel=PanacloudCloudAI%2CIoT%2CandBlockchainCourse)
+- [English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/10159552963217376)
+- [Urdu on YouTube](https://www.youtube.com/watch?v=V4z6KC3ENmM&ab_channel=PanacloudUrduCloudAICourse)
+- [Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/2257587044376073)
