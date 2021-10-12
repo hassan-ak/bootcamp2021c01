@@ -1,5 +1,7 @@
 # bootcamp2021c01 - Understanding the API Economy
+
 ## What is the API Economy?
+
 The objective of Bootcamp 2021 is to prepare sofware developers for the API Economy (Application Programming Interface Economy). APIs are software interfaces that allow once separate software systems to seamlessly and easily talk to each other. The innovative power of APIs has lead to the realization that software as a service (SaaS) applications can be built by combining APIs built by specialized API providers. That, in turn, has created the API Economy, which empowers developers to specialize and monetize their skills and domain knowledge.
 
 A taxi booking SaaS app, for example, might combine a mapping SaaS API, communication SaaS API, and billing SaaS API, each from different providers, with their own UX layered on top. This makes it easy to launch new services without having to build everything from scratch. This makes it easier for all participants to develop unique products, services and functionality quickly and with less cost.
@@ -16,7 +18,8 @@ Panacloud has started and is leading a social movement called Operation Unicorn 
 
 [API Economy Presentation for Class](https://docs.google.com/presentation/d/1rjiNSoQV87mgZNCCA5xf__B-OOTTuK7CCriwpesDR90/edit)
 
-Support Reading Material:
+## Support Reading Material:
+
 - [API economy](https://searchapparchitecture.techtarget.com/definition/API-economy)
 - [What is the API Economy & why it matters to your business](https://www.torocloud.com/blog/what-is-the-API-economy-and-why-it-matters-to-your-business)
 - [How the API economy is powering digital transformation](https://venturebeat.com/2021/05/17/how-the-api-economy-is-powering-digital-transformation/)
@@ -36,8 +39,9 @@ Support Reading Material:
 - [Architectural Style for APIs – how to make the choice](https://api-university.com/blog/architectural-style-for-apis/)
 - [Comparisons of API Architectural Styles](https://www.moesif.com/blog/api-guide/comparisons-of-api-architectural-styles/)
 
-Class 1 Videos: The API Economy
-- [English on YouTube](https://www.youtube.com/watch?v=1ztdYFRyCyE&ab_channel=PanacloudCloudAI%2CIoT%2CandBlockchainCourse)
-- [English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/10159552963217376)
-- [Urdu on YouTube](https://www.youtube.com/watch?v=V4z6KC3ENmM&ab_channel=PanacloudUrduCloudAICourse)
-- [Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/2257587044376073)
+## Class 1 Videos: The API Economy
+
+- [English YouTube](https://www.youtube.com/watch?v=1ztdYFRyCyE&ab_channel=PanacloudCloudAI%2CIoT%2CandBlockchainCourse)
+- [English Facebook](https://www.facebook.com/fb.anees.ahmed/videos/10159552963217376)
+- [Urdu YouTube](https://www.youtube.com/watch?v=V4z6KC3ENmM&ab_channel=PanacloudUrduCloudAICourse)
+- [Urdu Facebook](https://www.facebook.com/Ai.SirQasim/videos/2257587044376073)
