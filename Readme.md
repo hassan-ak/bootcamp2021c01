@@ -18,7 +18,7 @@ Panacloud has started and is leading a social movement called Operation Unicorn 
 
 [API Economy Presentation for Class](https://docs.google.com/presentation/d/1rjiNSoQV87mgZNCCA5xf__B-OOTTuK7CCriwpesDR90/edit)
 
-## Support Reading Material:
+### Support Reading Material:
 
 - [API economy](https://searchapparchitecture.techtarget.com/definition/API-economy)
 - [What is the API Economy & why it matters to your business](https://www.torocloud.com/blog/what-is-the-API-economy-and-why-it-matters-to-your-business)
@@ -39,7 +39,7 @@ Panacloud has started and is leading a social movement called Operation Unicorn 
 - [Architectural Style for APIs – how to make the choice](https://api-university.com/blog/architectural-style-for-apis/)
 - [Comparisons of API Architectural Styles](https://www.moesif.com/blog/api-guide/comparisons-of-api-architectural-styles/)
 
-## Class 1 Videos: The API Economy
+### Class 1 Videos: The API Economy
 
 - [English YouTube](https://www.youtube.com/watch?v=1ztdYFRyCyE&ab_channel=PanacloudCloudAI%2CIoT%2CandBlockchainCourse)
 - [English Facebook](https://www.facebook.com/fb.anees.ahmed/videos/10159552963217376)
