@@ -1,6 +1,9 @@
-# bootcamp2021c01 - Understanding the API Economy
+# bootcamp2021c01 - The API and Token Economy - Understanding the API Economy
 
 ## What is the API Economy?
+- What is API economy
+- Role of API economy in digital transformation
+- Types of API
 
 The objective of Bootcamp 2021 is to prepare sofware developers for the API Economy (Application Programming Interface Economy). APIs are software interfaces that allow once separate software systems to seamlessly and easily talk to each other. The innovative power of APIs has lead to the realization that software as a service (SaaS) applications can be built by combining APIs built by specialized API providers. That, in turn, has created the API Economy, which empowers developers to specialize and monetize their skills and domain knowledge.
 
@@ -39,7 +42,7 @@ Panacloud has started and is leading a social movement called Operation Unicorn 
 - [Architectural Style for APIs – how to make the choice](https://api-university.com/blog/architectural-style-for-apis/)
 - [Comparisons of API Architectural Styles](https://www.moesif.com/blog/api-guide/comparisons-of-api-architectural-styles/)
 
-### Class 1 Videos: The API Economy
+### Class 1 Videos: What is the API Economy
 
 - [English YouTube](https://www.youtube.com/watch?v=1ztdYFRyCyE&ab_channel=PanacloudCloudAI%2CIoT%2CandBlockchainCourse)
 - [English Facebook](https://www.facebook.com/fb.anees.ahmed/videos/10159552963217376)
